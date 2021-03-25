@@ -9,6 +9,7 @@ You will also need to install openai_ros ROS package(http://wiki.ros.org/openai_
 Laser scan mounted on top of TurtleBot robot is used for training the robot and it is also possible to extend it to Camera images with minor changes, however, I will not show that in this code. 
 
 Below is a list(generated via conda list) of python packages you will need, I suggest create a Conda environment with these libraries for smooth running.
+
 **Name**                  **Version**           **Build**
 
 _libgcc_mutex             0.1                        main
