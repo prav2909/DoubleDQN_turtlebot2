@@ -9,6 +9,8 @@ ROS Version: ROS Melodic
 
 Gazebo: Gazebo 9.0.0
 
+OS: Ubuntu 18.04
+
 You will also need to install openai_ros ROS package(http://wiki.ros.org/openai_ros) to access open AI based environement and commands for training the robot. You can follow this tutorial from ROS to set it up: http://wiki.ros.org/openai_ros/TurtleBot2%20with%20openai_ros
 Laser scan mounted on top of TurtleBot robot is used for training the robot and it is also possible to extend it to Camera images with minor changes, however, I will not show that in this code. 
 
