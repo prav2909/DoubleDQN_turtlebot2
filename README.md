@@ -4,8 +4,11 @@ Double DQN implementation on ROS based TurtleBot 2 Robot
 This is an implementation of Double DQN algorithm on a Turtlebot 2 Robot.
 
 Python interpreter: Python 3.6
+
 ROS Version: ROS Melodic
+
 Gazebo: Gazebo 9.0.0
+
 You will also need to install openai_ros ROS package(http://wiki.ros.org/openai_ros) to access open AI based environement and commands for training the robot. You can follow this tutorial from ROS to set it up: http://wiki.ros.org/openai_ros/TurtleBot2%20with%20openai_ros
 Laser scan mounted on top of TurtleBot robot is used for training the robot and it is also possible to extend it to Camera images with minor changes, however, I will not show that in this code. 
 
@@ -105,4 +108,5 @@ To use the project, first create a ROS package with name fa_turtlebot inside ...
 
 Feel free to use or modify this code as per your need, happy coding!
 Connect over LinkedIn: https://www.linkedin.com/in/praveen-kumar-b2096391/
+
 Follow me on my Medium blog, I will be adding some interesting stuff soon: https://praveenkumar2909.medium.com/
