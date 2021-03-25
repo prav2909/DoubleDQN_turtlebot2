@@ -10,6 +10,7 @@ Laser scan mounted on top of TurtleBot robot is used for training the robot and 
 
 Below is a list(generated via conda list) of python packages you will need, I suggest create a Conda environment with these libraries for smooth running.
 **Name**                  **Version**           **Build**
+
 _libgcc_mutex             0.1                        main
 
 ca-certificates           2021.1.19            h06a4308_1
