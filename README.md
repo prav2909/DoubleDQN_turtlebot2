@@ -101,7 +101,7 @@ xz                        5.2.5
 
 zlib                      1.2.11
 
-To use the project, first create a ROS package with name fa_turtlebot inside .../catkin_ws/src .Then paste files of this repository inside .../catkin_ws/src/fa_turtlebot/src, build the package. Open terminal and activate the environement with the python packages, then type roslaunch fa_turtlebot start_training.launch to start the training. If everything is set right, you should see a Gazebo window popup, with robot moving inside it, as can be seen in snapshot.png. 
+To use the project, first create a ROS package with name fa_turtlebot inside .../catkin_ws/src .Then paste files of this repository inside .../catkin_ws/src/fa_turtlebot/src, build the package. Open terminal and activate the environement with the python packages, then type roslaunch fa_turtlebot start_training.launch to start the training. If everything is set right, you should see a Gazebo window popup, with robot moving inside it, as can be seen in snapshot.png. You can use the rviz config file to visualize laser scan data map as the robot progresses in the environment.
 
 Feel free to use or modify this code as per your need, happy coding!
 Connect over LinkedIn: https://www.linkedin.com/in/praveen-kumar-b2096391/
